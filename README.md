@@ -1,3 +1,3 @@
 # python3
-just fun
+测试
 print('hello,world')
